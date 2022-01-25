@@ -9,6 +9,6 @@
   "devDependencies": {
     "@gnosis.pm/safe-apps-sdk": "3.0.0",
     "bnc-onboard": "^1.37.1",
-    "vite": "^2.7.2"
+    "vite": "^2.7.13"
   }
 }
